@@ -1,4 +1,6 @@
 # 2016_Stanford_CS221
+Class Project
+
 A neural network architecture for reduced order modeling of PDEs
 https://www.tinarwhite.com/
 
